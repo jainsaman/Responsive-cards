@@ -178,6 +178,10 @@ button:hover .price{
 .third:hover .third-back{
     transform: translateY(-30px);
 }
+.third button{
+    width: 200px;
+    border-radius: 10px;
+}
 .fourth{
     width: 300px;
     height: 450px;
