@@ -173,7 +173,7 @@ button:hover .price{
     transform: translateY(-125px);
 }
 .third-back p{
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 .third:hover .third-back{
     transform: translateY(-30px);
